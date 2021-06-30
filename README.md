@@ -12,6 +12,7 @@ This is a repo containing the gridicsEditorCodeChallenge TinyMCE plugin. This pl
 7. Once complete, create a PR containing your changes.
 
 ## Notes
-Once the developement server has started you can access the editor by opening `src/demo/html/index.html` in your browser.
+* Once the developement server has started you can access the editor by opening `src/demo/html/index.html` in your browser.
+* Don't worry about running the build script, as that is not necessary for our purposes. 
 
 
