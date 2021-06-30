@@ -6,10 +6,10 @@ This is a repo containing the gridicsEditorCodeChallenge TinyMCE plugin. This pl
 1. Fork this repo.
 2. Clone it to your machine.
 3. CD into the directory.
-4. `yarn install` to download the dependencies.
+4. `npm install` to download the dependencies.
 5. `npm start` to startup the develement environment.
 6. Start coding.
-7. Once complete, create a PR containing your changes.
+7. Once completed, create a PR containing your changes.
 
 ## Notes
 * Once the developement server has started you can access the editor by opening `src/demo/html/index.html` in your browser.
